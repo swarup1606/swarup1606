@@ -9,12 +9,6 @@
        alt="MasterHead" width="600" style="border-radius:15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
 </div>
 
-<!-- Additional image aligned to right -->
-<div align="right">
-  <img src="[https://media.giphy.com/media/xTiTnvO3L4Ebi9hKLe/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVzcWc0aDI2NmhlcjZvZDczejhiMHJsaXg3cmx5ZWlhYjkweW1zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif)" 
-       alt="Awesome Animation" width="400" style="border-radius:15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
-</div>
-
 ---
 
 ### 🚀 Currently Working On:
@@ -31,6 +25,11 @@
 
 ### 📄 Know About My Experiences:
 - [Experience & Portfolio](https://coral-isabelle-82.tiiny.site)
+<!-- Additional image aligned to right -->
+<div align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVzcWc0aDI2NmhlcjZvZDczejhiMHJsaXg3cmx5ZWlhYjkweW1zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" 
+       alt="Awesome Animation" width="400" style="border-radius:15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+</div>
 
 ---
 
