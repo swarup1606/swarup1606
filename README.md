@@ -123,3 +123,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarup1606" alt="Streak Stats" />
 </div>
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swarup1606&style=flat-square&color=blue" alt="Profile Views" />
+</p>
