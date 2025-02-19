@@ -24,7 +24,7 @@
 - **swarupkakade1808@gmail.com**
 
 ### 📄 Know About My Experiences:
-- [Experience & Portfolio](https://coral-isabelle-82.tiiny.site)
+- **[Experience & Portfolio](https://coral-isabelle-82.tiiny.site)**
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
