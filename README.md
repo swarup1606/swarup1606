@@ -62,8 +62,8 @@ AI & Data Science graduate (B.E., Mumbai University, 2026) building machine lear
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swarup1606&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarup1606&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
